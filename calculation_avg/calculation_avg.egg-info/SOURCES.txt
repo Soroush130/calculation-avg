@@ -1,0 +1,8 @@
+setup.py
+calculation/__init__.py
+calculation/handler.py
+calculation_avg.egg-info/PKG-INFO
+calculation_avg.egg-info/SOURCES.txt
+calculation_avg.egg-info/dependency_links.txt
+calculation_avg.egg-info/not-zip-safe
+calculation_avg.egg-info/top_level.txt
