@@ -1,6 +1,6 @@
 ## Installation
 ```
-pip install git+https://github.com/Soroush130/calculation-avg
+pip install git+https://github.com/Soroush130/calculation-avg/tree/master/calculation_avg
 ```
 
 ## Usage
